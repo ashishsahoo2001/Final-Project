@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .container{
-  background-image: url("/Aslet/GALLERY/fd1bgimg.avif");
+  background-image: url("../GALLERY/fd1bgimg.avif");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;

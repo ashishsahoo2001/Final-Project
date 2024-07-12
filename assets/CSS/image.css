@@ -6,7 +6,7 @@ body{
   height: 100%;
 }
 .div2{
-  background-image: url("/Aslet/GALLERY/imagebgimg.jpeg");
+  background-image: url("../GALLERY/imagebgimg.jpeg");
   height: 100%;
 background-position: center;
 background-repeat: no-repeat;
